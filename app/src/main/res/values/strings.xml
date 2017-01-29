@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_i_e_charlotte">City (i.e)Charlotte</string>
+    <string name="submit">Submit</string>
+    <string name="addToFavs">Add to Favorites</string>
+    <string name="downloading_hourly_data">Downloading hourly Data</string>
+    <string name="there_is_no_city_in_your_favorites">There are no cities to display. Search the city from the search box and save</string>
+    <string name="hourly_data">HOURLY DATA</string>
+    <string name="time_goes_here">time goes here</string>
+    <string name="cloudy_goes_here">CLoudy goes here</string>
+    <string name="current_loc">"Current Location: "</string>
+    <string name="current_location">Current Location:</string>
+    <string name="max_temperature">Max Temperature:</string>
+    <string name="min_temperature">Min Temperature:</string>
+    <string name="feels_like">Feels Like:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="dewpoint">Dewpoint:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="clouds">Clouds:</string>
+    <string name="winds">Winds:</string>
+    <string name="F">F</string>
+    <string name="fahrenheit">" Fahrenheit"</string>
+    <string name="hpa">" hPa"</string>
+    <string name="state_i_e_nc">State (i.e)NC</string>
+</resources>
